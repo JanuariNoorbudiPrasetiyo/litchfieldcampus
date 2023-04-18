@@ -5,4 +5,4 @@
 * PHP v8.2
 
 # Setup
-just downdload the source code and open it with VS code (or any code editor).
+Just download the source code and open it with VS code (or any code editor).
