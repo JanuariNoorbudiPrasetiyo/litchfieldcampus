@@ -7,3 +7,6 @@
 # Setup
 * I am using a web server to run this project (I am using WAMP).
 * Download the source code and open it with VS code (or any code editor).
+
+P.S
+This project is still in the development stage.
